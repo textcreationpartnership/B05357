@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commissions, proclamations, and acts of Privie Councell, concerning Jesuits, Priests, and Papists. 5. July 1642.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 32KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05357</idno><idno type="EEBO-CITATION">51784650</idno>
+  <idno type="VID">175055</idno>
+  <idno type="EEBO-PROQUEST">2264187338</idno>
+  
+            <idno type="STC">Wing S1489A</idno>
+            <idno type="STC">ESTC R183050</idno>
+            <idno type="OCLC">51784650</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175055)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2710:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Commissions, proclamations, and acts of Privie Councell, concerning Jesuits, Priests, and Papists. 5. July 1642.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Young, and Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, tightly bound with loss of text.</note>
+                  <note>Initial letter.</note>
+                  <note>Contains the texts of two commissions issued by Charles I and one Act of the Privy Council of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Jesuits --  Scotland --  Law and legislation --  Early works to 1800.</term>
+               <term type="geographic_name">Catholics --  Scotland --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175055:1"/>
+            <pb facs="tcp:175055:1"/>
+            <pb facs="tcp:175055:2"/>
+            <pb facs="tcp:175055:2"/>
+            <p>COMMISSIONS, PROCLAMATIONS, AND ACTS OF PRIVIE COUNCELL, Concerning Iesuits, Priests, and Papists.</p>
+            <p>5. <hi>JULY</hi> 1642.</p>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Robert Young,</hi> and <hi>Evan Tyler,</hi> Printers to the Kings most excellent Majestie. <hi>Anno</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="commissions">
+            <pb facs="tcp:175055:3"/>
+            <pb n="1" facs="tcp:175055:3"/>
+            <head>COMMISSIONS Against Iesuits, Seminarie and Masse Priests, and excom<g ref="char:EOLhyphen"/>municate Papists.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">C</seg>HARLES by the grace of GOD, King of great <hi>Brittaine, France,</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed>
+               <salute>To Our Lovits, Heralds, Pursevants, Messengers, Our Sheriffs in that part, conjunctly and se<g ref="char:EOLhyphen"/>verally, specially constitute, greeting.</salute>
+            </opener>
+            <p>Forsameikle as although all Jesuits, Seminarie and Masse Priests, ex<g ref="char:EOLhyphen"/>communicate persons, and traffiquing Papists, are decla<g ref="char:EOLhyphen"/>red by divers Acts of Parliament and secret Councell, to be most pernicious pests in this Common-weale, and avowed enemies to the true Religion, and all Christian government, and were therefore by divers Proclamati<g ref="char:EOLhyphen"/>ons, made and published heretofore, of a long time by<g ref="char:EOLhyphen"/>gone, charged to depart forth of this Our Kingdome, under the pain of death; yet, partly upon occasion of
+<pb n="2" facs="tcp:175055:4"/> the comfort and countenance which they find among Our Subjects of all ranks and qualities, popishly affe<g ref="char:EOLhyphen"/>cted; and partly by the neglect and over-sight of these, to whose charge, the execution of the saids Acts, and apprehension and punishment of these persons appertai<g ref="char:EOLhyphen"/>ned, these Jesuits, Seminarie and Masse Priests, have ta<g ref="char:EOLhyphen"/>ken the boldnesse from time to time, to repaire to this our Kingdome, bestirring themselves to corrupt simple and ignorant people, both in Religion, and allegeance. And some of thefe Jesuits, and Masse Priests, being craf<g ref="char:EOLhyphen"/>tie and politick heads, and traffiquers in matters of State, bend their whole endeavours by surmises, forging of lies, and dispersing of bruites and rumours of forraigne projects amongst Our Subjects of better sort, to distract them in opinions, and affections, and to entertaine divi<g ref="char:EOLhyphen"/>sions in the State, to the disturbance of the peace of the Countrey: for preventing of whose treasonable at<g ref="char:EOLhyphen"/>tempts, and securing Our Subjects from the snares and dangers, wherein they will not faile to involve them, to their wrack and undoing: Wee, with advice of the Lords of Our Privie Councell, according to the former Orders, issued forth by Our Warrant, and Acts of Our Privie Councell, made with consent of some Commis<g ref="char:EOLhyphen"/>sioners of the State and Kirk for the time, have given and granted, and by the tenour hereof gives and grants full Power and Commission, expresse bidding and charge to the persons particularly under-written, within the bounds following. They are to say, to Sir <hi>James Sinclar</hi> of <hi>Murkill,</hi> Sir <hi>William Sinclar</hi> of <hi>Catbell,</hi> Sir <hi>John Sinclar</hi> of <hi>Dunbeth,</hi> and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>Bruce</hi> of <hi>Stan<g ref="char:EOLhyphen"/>stell,</hi> for Our Sherifdome of <hi>Caithnes.</hi> To Our trusty Cousin and Counseller <hi>John</hi> Earle of <hi>Sutherland,</hi> and Our trusty and welbeloved Counseller Sir <hi>Robert Gor<g ref="char:EOLhyphen"/>doun</hi>
+               <pb n="3" facs="tcp:175055:4"/> of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and Our Lovits Sir <hi>John Gordoun</hi> of <hi>Embo, George Gordoun,</hi> brother to the said Earle, <hi>Robert Murray</hi> of <hi>Spainyedaill,</hi> and <hi>Robert Gray</hi> of <hi>Skibo,</hi> for Our Sherifdome of <hi>Sutherland.</hi> And to Our right trusty Cousins and Counsellours, <hi>Archibald,</hi> Marquesse of <hi>Ar<g ref="char:EOLhyphen"/>gyle,</hi> and <hi>George</hi> Earle of <hi>Seafort,</hi> and to Our Lovits, <hi>John Mac Cleud</hi> of <hi>Herreis,</hi> and <hi>Coline Campbell,</hi> Tutor of <hi>Caddell,</hi> for the bounds of the Iles, And to the said Earle of <hi>Seafort, Hugh</hi> Master of <hi>Lovat,</hi> Sir <hi>James Fraser,</hi> brother to the Lord <hi>Lovat, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Ros</hi> of <hi>Ballingowne,</hi> Sir <hi>John Mac Keinye</hi> of <hi>Tarbet,</hi> and the Provest and Bai<g ref="char:EOLhyphen"/>liffs of <hi>Innernesse</hi> for the time, within the Province of <hi>Rosse,</hi> And to Our trustie Cousin <hi>George,</hi> Marquesse of <hi>Huntlie,</hi> and to Our trusty and welbeloved Cousins and Counsellours, <hi>James</hi> Earle of <hi>Murrey,</hi> and <hi>James</hi> Earle of <hi>Finlatter,</hi> and Our trustie Cousin <hi>George,</hi> Lord <hi>Gordoun,</hi> and to Our trustie and welbeloved Counsellours, the said Sir <hi>Robert Gordoun,</hi> and Sir <hi>Robert Innes</hi> of that ilk, and to Our Lovits <hi>Alexander Dumbar,</hi> Sheriffe of <hi>Mur<g ref="char:EOLhyphen"/>rey, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Brodie</hi> of that ilk, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>Ros</hi> of <hi>Kil<g ref="char:EOLhyphen"/>raack, Alexander Abircromby</hi> of <hi>Birkinboig,</hi> Sir <hi>Alexan<g ref="char:EOLhyphen"/>der Abircromby</hi> his sonne, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>Ogilvic</hi> of <hi>Boyne, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Ogilvie</hi> of <hi>Kempicarne,</hi> and the Provest and Bailiffs of <hi>Elgine, Bamf, Forres,</hi> and <hi>Narne,</hi> for the time being, with<g ref="char:EOLhyphen"/>in the bounds of Our Sherifdomes of <hi>Elgine, Forres, Narne,</hi> and <hi>Bamf,</hi> And to the said Marquesse of <hi>Hunt lie, William</hi> Earle <hi>Marshall, Andrew</hi> Lord <hi>Fraser,</hi>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Master of <hi>Forbes,</hi> Sir <hi>Alexander Irwing</hi> of <hi>Drum, James Crightoun</hi> of <hi>Fendraucht,</hi> Sir <hi>Thomas Burnet</hi> of <hi>Leyes,</hi> Sir <hi>William Forbes</hi> of <hi>Cragievar, John Forbes</hi> of <hi>Leslie, Wil<g ref="char:EOLhyphen"/>liam Seaton</hi> of <hi>Meany, Walter Forbes of Tolquhoun, Thomas Forbes</hi> of <hi>Watertoun,</hi> Sir <hi>William Keith</hi> younger of <hi>Lud<g ref="char:EOLhyphen"/>quharne, Alexander Fraser</hi> of <hi>Phillorth, Thomas Fraser</hi> of
+<pb n="4" facs="tcp:175055:5"/>
+               <hi>Streachin, Alexander Forbes</hi> Tutor of <hi>Pitsligo, John Keith of Clakriach John Udnye</hi> of that ilk, Master <hi>Robert Mar<g ref="char:EOLhyphen"/>tine</hi> in <hi>Clarkhill, Walter Ogilme</hi> of <hi>Ridhyve, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Baird</hi> of <hi>Auchmedden, Thomas Areskine</hi> of <hi>Pittodrie, John Forbes</hi> of <hi>Aslown, John Irwing</hi> of <hi>Beltie, Robert Ferquhar<g ref="char:EOLhyphen"/>son</hi> of <hi>Innercald,</hi> Sir <hi>William Forbes</hi> of <hi>Monymusk,</hi> Master <hi>James Buchan</hi> of <hi>Achmacoy, John Forbes</hi> in the old town of <hi>Aberdene,</hi> Master <hi>Robert Gordoun</hi> of <hi>Straloch,</hi> and the Provest and Bailiffs of <hi>Aberdene</hi> for the time, within the bounds of the Province of <hi>Aberdene,</hi> And to the said Earle <hi>Marshall, John</hi> Earle of <hi>Kingorne, David</hi> Earle of <hi>Southesk,</hi>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Vicount of <hi>Arburthnet, James</hi> Lord <hi>Carnegie, James</hi> Master of <hi>Duddop,</hi> Sir <hi>David Gra<g ref="char:EOLhyphen"/>hame</hi> of <hi>Fintrie,</hi> Sir <hi>Alexander Areskine</hi> of <hi>Dun,</hi> Sir <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>Grahame</hi> of <hi>Morphie,</hi> Sir <hi>Gilbert Ramsay</hi> of <hi>Balmayne,</hi> and the Provest and Bailiffs of <hi>Dundie, Forfar, Brechin,</hi> and <hi>Monrose,</hi> within the bounds of Our Sherif<g ref="char:EOLhyphen"/>domes of <hi>Kincardin,</hi> and <hi>Forfar,</hi> And to Our trustie Cousin and Counsellour, <hi>George</hi> Earle of <hi>Kinnowl,</hi> and to Our trustie Cousins, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lord <hi>Gask, James</hi> Lord <hi>Cowper, Andrew</hi> Lord <hi>Balvard;</hi> and to Our Lo<g ref="char:EOLhyphen"/>vits, Sir <hi>Robert Campbell</hi> of <hi>Glenurquhie,</hi> Sir <hi>Mungo Camp<g ref="char:EOLhyphen"/>bell</hi> of <hi>Lawers,</hi> Sir <hi>Patrick Ogilvie</hi> of <hi>Inchemartine,</hi> Sir <hi>Thomas Ruthven</hi> of <hi>Freeland, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Blair</hi> of <hi>Bal<g ref="char:EOLhyphen"/>theyock,</hi> and the Provest and Bailiffs of <hi>Perth,</hi> within the bounds of the Sherifdomes of <hi>Perth, Stratherne,</hi> and <hi>Monteth,</hi> And to Our trustie and welbeloved Cousins and Counsellours, <hi>John</hi> Earle of <hi>Mar,</hi> and <hi>James</hi> Earle of <hi>Callander,</hi> and to Our trustie Cousin <hi>John</hi> Lord <hi>Are<g ref="char:EOLhyphen"/>skine,</hi> and to Our trustie Cousin and Counsellour, <hi>Ale<g ref="char:EOLhyphen"/>xander</hi> Lord <hi>Elphinstoun,</hi> and to Our Lovits, Sir <hi>William Murrey</hi> of <hi>Polmais, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Cuningham</hi> of <hi>Bolquhen,</hi> Sir <hi>Charles Arskyn</hi> of <hi>Bandeth,</hi> and the Provest and
+<pb n="5" facs="tcp:175055:5"/> Bailiffs of <hi>Sterline,</hi> for Our Sherifdome of <hi>Sterline,</hi> And to Our right trustie Cousins and Counsel<g ref="char:EOLhyphen"/>lours, <hi>William</hi> Earle of <hi>Morton, Charles</hi> Earle of <hi>Dum<g ref="char:EOLhyphen"/>fermline, John</hi> Earle of <hi>Lindesay, John</hi> Earle of <hi>Weims, John</hi> Lord <hi>Sinclar, Robert</hi> Lord <hi>Burghlie,</hi>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lord <hi>Balcarres,</hi> and to Our trustie Counsellours, Sir <hi>Ale<g ref="char:EOLhyphen"/>xander Gibson</hi> of <hi>Durie,</hi> Clerk Register, and Sir <hi>Thomas Hope</hi> of <hi>Craighall,</hi> Our Advocate, and to Our trustie and welbelovits, Sir <hi>James Learmonth</hi> of <hi>Balcolmie,</hi> and Sir <hi>John Leslie</hi> of <hi>Newtoun,</hi> and Sir <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>Sandelance</hi> of <hi>Sanctmonance,</hi> and <hi>William Rig</hi> of <hi>Athernie,</hi> and the Provest and Bailiffs of Our Burrowes in <hi>Fyfe,</hi> for that Sherifdome, And to Our trustie Cousins and Counsel<g ref="char:EOLhyphen"/>lours, <hi>John</hi> Earle of <hi>Lauderdail, William</hi> Earle of <hi>Dalhoussie,</hi> and <hi>Archibald</hi> Lord <hi>Angus,</hi> and to Our trustie Cousin <hi>John</hi> Lord <hi>Maitlane,</hi> and to Our trustie Cousin and Counsellour, <hi>John</hi> Lord <hi>Yester,</hi> and to Our trustie Cousin, <hi>John</hi> Lord <hi>Cranstoun,</hi> and to Our trustie and welbeloved Counsellours, Sir <hi>Patrick Hep<g ref="char:EOLhyphen"/>burne</hi> of <hi>Wauchton,</hi> and Sir <hi>George Dundas</hi> of that ilk, And to Our trustie and welbelovits, Sir <hi>Adam Hepburne</hi> of <hi>Humbie,</hi> one of the Senatours of the Colledge of Justice, Sir <hi>John Hamilton</hi> of <hi>Preston,</hi> and Sir <hi>John Sinclar</hi> of <hi>Hirdmestoun,</hi> and the Provest and Bailiffs of the Bur<g ref="char:EOLhyphen"/>rowes within the Sherifdomes of <hi>Edinburgh,</hi> and <hi>Ha<g ref="char:EOLhyphen"/>dintoun</hi> for that bounds, And to Our right trustie Cou<g ref="char:EOLhyphen"/>sins, <hi>James</hi> Earle of <hi>Annandaill, William</hi> Earle of <hi>Queens<g ref="char:EOLhyphen"/>berrie, John</hi> Vicount of <hi>Kenmure, William</hi> Lord <hi>Crigh<g ref="char:EOLhyphen"/>toun,</hi>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lord <hi>Dalyell, Thomas</hi> Lord <hi>Kirkcud<g ref="char:EOLhyphen"/>bright, James</hi> Lord <hi>Johnstoun,</hi> Sir <hi>Robert Greir</hi> of <hi>Lag, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Charters</hi> of <hi>Armsfield, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Kirkpatrick</hi> of <hi>Closburne, James Crighton,</hi> son to the Earle of <hi>Dum<g ref="char:EOLhyphen"/>freis, William Douglas</hi> of <hi>Kelheid,</hi> Master <hi>George Douglas</hi>
+               <pb n="6" facs="tcp:175055:6"/> of <hi>Penyerie,</hi> Colonell <hi>William Stuart, James Douglas</hi> of <hi>Monswald, John Crightoun</hi> of <hi>Crawf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rston, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Jardan</hi> of <hi>Apilgirth, James Johnston</hi> of <hi>Corheid,</hi> the Pro<g ref="char:EOLhyphen"/>vest and Bailifs of <hi>Dumfreis, Wigton,</hi> and <hi>Kircu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bright, Alexander Gordon</hi> of <hi>Erleston, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Gordon</hi> of <hi>Car<g ref="char:EOLhyphen"/>dyns, Richard Mure</hi> of <hi>Cassincarie, John Lenox</hi> of <hi>Kellie, William Gordon</hi> of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>Gordon</hi> of <hi>Craich<g ref="char:EOLhyphen"/>law, George Glendoning</hi> of <hi>Lothin, James Mac Dougall</hi> of <hi>Garthland,</hi> the Sheriffe of <hi>Galloway, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mac Dougall</hi> of <hi>Frenche,</hi>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of <hi>Logan,</hi> and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>Johnston</hi> of <hi>Westraw,</hi> within the bounds of <hi>Wigtoun, Dumfreis, Kirk<g ref="char:EOLhyphen"/>cudbright,</hi> and <hi>Annandaill,</hi> And to Our trustie Cousins and Counsellours, <hi>John</hi> Earle of <hi>Lowdoun,</hi> Lord Chan<g ref="char:EOLhyphen"/>cellour, <hi>Alexander</hi> Earle of <hi>Eglinton, John</hi> Earle of <hi>Cas<g ref="char:EOLhyphen"/>siles,</hi> and to Our Lovits, Sir <hi>William Cuningham</hi> of <hi>Ca<g ref="char:EOLhyphen"/>printon,</hi> Sir <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>Crawfurd</hi> of <hi>Kelburne,</hi> Sir <hi>Lodowick Houston</hi> of that ilk, Sir <hi>William Mure</hi> of <hi>Rowallan,</hi>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>Birsbane</hi> of <hi>Bishopton, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Porterfield</hi> of <hi>Deuchan,</hi> and Sir <hi>William Cochran</hi> of <hi>Cowdon,</hi> within the bounds of <hi>Air, Irwing,</hi> and <hi>Renfrew,</hi> to passe, search, seek, and take all and sundrie Jesuits, Seminarie and Masse Priests, and ex<g ref="char:EOLhyphen"/>communicate, traffiquing, rebellious Papists, where ever they may be apprehended, and whose names shall be gi<g ref="char:EOLhyphen"/>ven to them by the Moderatour of the Presbyterie, or any one of the Ministers of the Presbyterie, or whose names shall be sent to them by Our Councell, or of whom they have certain knowledge themselves, and to put, hold, and detaine them in sure firmance and captivi<g ref="char:EOLhyphen"/>tie, ay and while order and direction be given for their punishment, as accords. With power to Our saids Com<g ref="char:EOLhyphen"/>missioners, conjunctly and severally, by their best endea<g ref="char:EOLhyphen"/>vours, to restraine the superstitious going in pilgrimages to Chappells, and Wells, which hath been very frequent
+<pb n="7" facs="tcp:175055:6"/> in this Our Kingdome, to the offence of God, scandall of the Kirk, and disgrace of Our governement. And for this effect, to cause diligent attendance be given at such parts and places where this idolatrous superstition is used, and to apprehend all persons of whatsoever qualitie, whom they shall deprehend, going in pilgrimages to Chappells and Wells, or whom they shall know themselves to be guiltie of that crime, and to commit and detaine them in ward, till order shall bee given for their punishment, conforme to the Lawes of the Countrey. And if it shall happen the saids Jesuits, Seminarie and Masse Priests, and excommunicate, traffiquing, and rebellious Papists, or any of them, for eschewing of apprehension, to flee to strengths and houses, With power to Our saids Com<g ref="char:EOLhyphen"/>missioners, conjunctly and severally, to doe therein ac<g ref="char:EOLhyphen"/>cording as is prescribed by our Lawes in case of re<g ref="char:EOLhyphen"/>bellion: And generally with power to Our saids Com<g ref="char:EOLhyphen"/>missioners conjunctly and severally to doe, exerce and use all and sundrie other things, which for apprehension of the saids Jesuits, Seminarie and Masse Priests, and ex<g ref="char:EOLhyphen"/>communicate, rebellious Papists, and persons superstiti<g ref="char:EOLhyphen"/>ously going to Pilgrimages and Wels, by Law and Con<g ref="char:EOLhyphen"/>suetude of this Our Realme, may lawfully be done firme and stable, holding, and for to hold, all and whatsoever things shall be lawfully done herein.</p>
+            <p>OUR WILL IS HEREFORE, and Wee charge you straitly and command, that incon<g ref="char:EOLhyphen"/>tinent these Our Letters seen, you passe to the mar<g ref="char:EOLhyphen"/>ket Crosses of the Head Burrowes of Our Sherifdomes particularly above-written, and by open Proclamation make publication hereof, and that you command and charge all Our Lieges and Subjects, to reverence, ac<g ref="char:EOLhyphen"/>knowledge and obey, rise, concurre, fortifie and assist Our
+<pb n="8" facs="tcp:175055:7"/> said Commissioners, conjunctly and severally, in all and every thing tending to the execution of this Our Com<g ref="char:EOLhyphen"/>mission: And for this effect to conveene and meet with them at such dayes, times and places as they shall bee ad<g ref="char:EOLhyphen"/>vertised by their missive Letters, or otherwayes; and ef<g ref="char:EOLhyphen"/>faldly and truely to concurre and joyne with them in this Commission, and to doe nothing which may hinder and impede the same, or linger and delay the execution thereof, as they and every one of them will testifie their affection to the true Religion, and punishing the adversaries thereof, and under the paine to bee pursued and punished, as favourers, suppliers, countenan<g ref="char:EOLhyphen"/>cers, and assisters of the saids Jesuites, Seminary and Masse Priests, and excommunicate rebellious Papists: And that you command and charge Our saids Com<g ref="char:EOLhyphen"/>missioners to accept this Commission upon them, and faithfully and carefully to execute the same, and to bee ready at all times, as they shall be required or advertised of the being of the saids Jesuits, Seminarie and Masse Priests, or excommunicate rebellious Papists, in any part within the bounds allotted to them; to rise and go for<g ref="char:EOLhyphen"/>ward for their pursuit and apprehension, as they will ap<g ref="char:EOLhyphen"/>prove themselves worthy of the trust reposed in them, and will answer on the contrary at their perill. The which to doe, We commit to you conjunctly and seve<g ref="char:EOLhyphen"/>rally Our full power, by these Our Letters, delivering the same by you duelie execute and indorsed again to the bearer.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh</hi>
+                  <date>the 5. day of <hi>July,</hi> and of Our Reigne the 18. year, 1642.</date>
+               </dateline>
+               <hi>Per actum secreti Consilii.</hi>
+            </closer>
+         </div>
+         <div type="charges">
+            <pb n="9" facs="tcp:175055:7"/>
+            <head>CHARGES Against Iesuits, and Masse Priests, to depart out of the Countrey.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">C</seg>HARLES by the grace of GOD, King of great <hi>Brittaine, France,</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed>
+               <salute>To Our Lovits Heralds Pursevants Messengers, Our Sheriffes, in that part conjunct<g ref="char:EOLhyphen"/>ly and severally, specially constitute, greeting.</salute>
+            </opener>
+            <p>For<g ref="char:EOLhyphen"/>sameikle as the Lords of Our Privie Councell are infor<g ref="char:EOLhyphen"/>med, that divers Children of Noblemen, and others Our subjects of this Our Kingdome, have bin heretofore sent over into Seminarie Colledges, and other Popish houses beyond Sea, and there instructed, perswaded, and strengthened in their Popish errors, where-through they become not onely corrupt and perverted in their Religion, but poysoned and infected in their duty and allegeance to Us, and alienated in their naturall love and affection to their Countrey, which is so much the more dangerous, because the poyson being infused into youths and students, as into new vessells, groweth in time to an inveterate habit of malice, against the present government. As also that divers Jesuits and Semina<g ref="char:EOLhyphen"/>rie Priests, haunt, frequent, and are reset in the houses of many of the Subjects of this Our Kingdome, whereby there is a dayly growth and increase of Pa<g ref="char:EOLhyphen"/>pists: And We fearing the dangerous consequences
+<pb n="10" facs="tcp:175055:8"/> that hereupon may follow, and being carefull to pre<g ref="char:EOLhyphen"/>vent the same, and therewithall being desirous to noti<g ref="char:EOLhyphen"/>fie Our readinesse and constant resolution to maintaine the true Religion professed, and by Law established, as upon all occasions to represse the contrarie: There<g ref="char:EOLhyphen"/>fore according to a former Act and Proclamation, e<g ref="char:EOLhyphen"/>mitted by Our Warrant of the date the first of Novem<g ref="char:EOLhyphen"/>ber, 1625.</p>
+            <p>OUR WILL IS, and Wee charge you straitly and command, that incontinent these Our Letters seen, you passe to the market crosses of the head Burrowes of this Our Kingdome, and other places needfull, and make publication thereof: And that you command and charge all the saids Children that be<g ref="char:EOLhyphen"/>twixt and the first day of January next, they return to this their native Countrey, and conform themselves to live in such duty and obedience as becomes good Sub<g ref="char:EOLhyphen"/>jects, and that their Parents, Tutors, and Gover<g ref="char:EOLhyphen"/>nours, and such others, as have been, or are faultie ei<g ref="char:EOLhyphen"/>ther in sending, permitting, or maintaining them there, take present order to recall them home, and provide that they be returned to this Our Kingdome, betwixt and the day foresaid, and that none be sent over, per<g ref="char:EOLhyphen"/>mitted to goe, or maintained there hereafter, under the paine of the uttermost severitie of Justice to be extended in that behalf and inflicted upon them. And such like that you command, charge, and inhibite, that no Priest, nor other Person, having taken, or who shall take order by, or under any authority, or power, de<g ref="char:EOLhyphen"/>rived from the Sea of <hi>Rome,</hi> whether they be naturall borne Subjects, or Strangers, do presume to confer any Ecclesiasticall order, or exercise any Ecclesiasticall ju<g ref="char:EOLhyphen"/>risdiction, or function whatsoever, towards, or upon
+<pb n="11" facs="tcp:175055:8"/> any Our naturall borne Subjects of this Our King<g ref="char:EOLhyphen"/>dome. As likewise, that you command and charge all and sundry Judges, and Justices, to whom it appertaineth, to put all Our Laws and Statutes now standing in force against Jesuits, Seminarie Priests, and others, having taken orders from the Sea of <hi>Rome,</hi> being Our Subjects, to due and full execution, against such of them as from, and after the last day of September next to come, shall be found within this Our Kingdome. Which day We have limitted and prefixed for the uttermost terme of their departure. As also that you command, charge, and inhibite all Our Lieges and Subjects, that none of them presume nor take upon hand, after the said day, to reset, supply, harbour, entertaine, releeve, or conceale any of the saids Jesuits, Seminarie Priests, or other Popish Priests, under the paines provided by Our Lawes in that behalf, Which paines shall be severely inflicted upon the offenders, without favour. And last, that you command and charge all Our Subjects, of whatsoever ranke and degree, to conforme themselves to the publike profession of the true Religion now esta<g ref="char:EOLhyphen"/>blished, like as We prohibite the exercise of any con<g ref="char:EOLhyphen"/>trarie profession, under the paines contained in Our Lawes and Statutes made hereanent. And We ordain all Synods and Presbyteries to proceed against all such as are knowne to be of a contrarie profession, according to the Lawes of the Kirk and Realme. The which to doe, We commit to you, conjunctly and severally, Our full power, by these Our Letters, delivering the same by you, duely execute, and indorsed again to the bearer.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh</hi>
+                  <date>the 5 of <hi>July,</hi> and of Our Reigne the 18 year. 1642.</date>
+               </dateline>
+               <hi>Per actum secreti Consilii.</hi>
+            </closer>
+         </div>
+         <div type="acts">
+            <pb n="12" facs="tcp:175055:9"/>
+            <head>ACTS OF COUNCELL, Concerning Iesuits, Priests, and excommunicate Papists. At <hi>Edinburgh</hi> the fifth day of <hi>July</hi> 1642.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Orsameikle as although the reset, sup<g ref="char:EOLhyphen"/>lie, and intercommuning with Jesuits, Seminarie and Masse Priests (who by divers Acts of Parliament were found to be profest and avowed enemies to all Christian government) have been straitly discharged by many good Acts of Parliament, Convention, and secret Councell, under certain paines contained therein: Notwithstanding it is of truth that the reset, supply, and comforting of these unhappy People, is very frequent, in divers parts of this Kingdome: part<g ref="char:EOLhyphen"/>ly upon occasion of by-past connivence, and over-sight, given to persons offending in this kinde, and partly be<g ref="char:EOLhyphen"/>cause particular Commissions have not been granted for tryall of the saids resets, which is the chief and speciall cause whereby these Jesuits and Masse Priests are encou<g ref="char:EOLhyphen"/>raged to repair to this Kingdome, and to take libertie to corrupt His Majesties Subjects both in their Religion and Allegeance: whereas if these resets, and starting-holes were denyed unto them, the Countrey would not be troubled with their treasonable projects and insinuati<g ref="char:EOLhyphen"/>ons: Therefore the Lords of secret Councell, ac<g ref="char:EOLhyphen"/>cording to an Act of Parliament, made in the moneth
+<pb n="13" facs="tcp:175055:9"/> of <hi>June,</hi> 1609. and to former Acts of secret Councell, and to the 13. Act of the Parliament, holden at <hi>Edin<g ref="char:EOLhyphen"/>burgh</hi> in <hi>September,</hi> 1640. ordains and commands all and sundry Synods and Presbyteries within this Kingdome, and with that gives and grants unto them full Power and Commission, to call and conveene before them, all and sundry persons resetters of Jesuits, Seminarie and Masse Priests, &amp; excommunicat Rebells for Poperie, and all hearers and sayers of Masse, at such dayes and times as they shall appoint; and for this effect, to fence and hold Courts, and to create officers and members of Court needfull, and the person or persons guilty of the crimes above-written, or any of them, to call and accuse, and to deduce and lead probation thereupon, either by oath of party, or by witnesses. And in case any person reset<g ref="char:EOLhyphen"/>ter being lawfully summoned to compeir and answer upon the said reset, will notwithstanding wilfully ab<g ref="char:EOLhyphen"/>sent himself, and shun his tryall, and so take the crime upon him, that in that case they hold him as confest: Providing alwayes, that the partie reset be specially con<g ref="char:EOLhyphen"/>descended upon, either by his own proper name, or by the name and designation which he assumes to himself, and whereby he is known in the Countrey, and that the reset hath been within the space of one year: And the said tryall and probation being taken, that they report the same to the Lords of Privie Councell, or to His Ma<g ref="char:EOLhyphen"/>jesties Advocate, to the intent the Delinquents may be called to their answer, and punished accordingly. With power to the saids Synods and Presbyteries, eve<g ref="char:EOLhyphen"/>ry one within their own bounds, and offices, to call be<g ref="char:EOLhyphen"/>fore them all persons who against the tenour of the Acts of Parliament, 1609. and 1640. refuse to communicate; and to take tryall of their refusall, And if thereupon they
+<pb n="14" facs="tcp:175055:10"/> shall be found non-communicants, that they report the same to the Councell, that they may fine them: Which fines are to be applyed to the uses prescribed, by the said Act of the late Parliament. And recommends to the said Synods and Presbyteries, to have a speciall care to put this Commission to execution in all points.</p>
+            <p>The Lords of secret Councell, according to a for<g ref="char:EOLhyphen"/>mer Act of Councell, made in July 1629. declares, and ordaines, that no excommunicate Rebells who shall be warded for matters of Religion, shall be releeved out of ward, but upon obedience and conformitie to the true Religion, or else upon their voluntarie offer of ba<g ref="char:EOLhyphen"/>nishment forth of His Majesties whole Dominions.</p>
+            <p>Forsameikle as by divers Acts of Parliament, Con<g ref="char:EOLhyphen"/>vention, and secret Councell, made and published here<g ref="char:EOLhyphen"/>tofore, it is ordained, that no person nor persons what<g ref="char:EOLhyphen"/>soever who professeth not the true Religion presently profest within this Kingdome, shall be preferred to any office whatsoever without exception, or restricti<g ref="char:EOLhyphen"/>on. Therefore the saids Lords, conforme to the saids Acts, declares and ordaines, that no profest Papist, refu<g ref="char:EOLhyphen"/>sing to communicate being required thereto, shall have place in Councell, Session, or any other Judicatory, nor bruike any office within this Kingdome, and ordaines these whom it concerns, to have a speciall care of the precise observation of the saids Acts. And such like the saids Lords prohibits and discharges all persons whatso<g ref="char:EOLhyphen"/>ever, being under processe for Poperie, to resort or re<g ref="char:EOLhyphen"/>paire to His Majesties Court without Licence from the saids Lords, under the paine to be called, pursued, and punished as contemners of the directions of His Maje<g ref="char:EOLhyphen"/>sties Councell.</p>
+            <p>Forsameikle as there have been divers Acts of Parlia<g ref="char:EOLhyphen"/>ment
+<pb n="15" facs="tcp:175055:10"/> and secret Councell made anent the education of Noblemens Children, which have been neglected, and not received execution these divers yeers by-gone; where-through divers youths, as well the sons of noble<g ref="char:EOLhyphen"/>men, as others, have been, and are very much corrupted in their Religion: Therefore the Lords of secret Coun<g ref="char:EOLhyphen"/>cell ordaines the saids Acts of Parliament to be put to execution in all points, conforme to the tenour thereof: And they recommend to the severall Presbyteries of the Kingdome, to make a true report to His Majesties Councell of the names of such Noblemen and Barons sons and daughters, whose parents are suspect in Religion, or where they are bred in suspect places.</p>
+            <p>The Lords of secret Councell ordaines the names of all excommunicate Papists, given in at this time in a Catalogue and roll, to be affixed upon the Session house of <hi>Edinburgh,</hi> To the intent the Lords of Sessi<g ref="char:EOLhyphen"/>on, and others Judges, and the Commissers upon objection of parties, and inspection of the Catalogue, may refuse processe to the partie therein contain<g ref="char:EOLhyphen"/>ed.</p>
+            <p>The Lords ordaines the Synods and Presbyteries of this Kingdome, to proceed against all ranks and condi<g ref="char:EOLhyphen"/>tions of persons suspect of Poperie, with the censures of the Kirk without exception, under the paines contain<g ref="char:EOLhyphen"/>ed in the Acts of Parliament.</p>
+            <p>The Lords ordaines Letters to be direct against ex<g ref="char:EOLhyphen"/>communicate Papists, being Rebells, to compeir before the Councell, to hear Letters of treason direct against them for rendring their houses, and entring their per<g ref="char:EOLhyphen"/>sons in ward in <hi>Blacknes:</hi> and that the Summonds a<g ref="char:EOLhyphen"/>gainst such of them as dwell on this side of <hi>Dee,</hi> shall be upon ten dayes warning: and against these by
+<pb n="16" facs="tcp:175055:11"/> north <hi>Dee,</hi> upon fifteen dayes: As also that Letters of intercommuning bee direct against them upon lawfull Hornings to be given in for Warrant there<g ref="char:EOLhyphen"/>of.</p>
+            <p>The Lords of secret Councell ordaines that no Let<g ref="char:EOLhyphen"/>ters be granted against Ministers at the instance of ex<g ref="char:EOLhyphen"/>communicate and Rebellious Papists, but upon cau<g ref="char:EOLhyphen"/>tion for payment of the Ministers expences in case they succumbe in proving their complaint: and that Letters be direct against all such persons who shall abuse Eccle<g ref="char:EOLhyphen"/>siasticall Judicatories, or threaten to take Ministers lives for their appearance before the Councell to their an<g ref="char:EOLhyphen"/>swer.</p>
+            <p>The Lords of secret Councell recommends to the Lyon King of armes, to discharge all Messengers of armes suspect of Poperie, and refusing to subscribe the Covenant, being required thereto by the Presby<g ref="char:EOLhyphen"/>terie, to execute their office till they conforme.</p>
+            <p>The Lords of secret Councell recommends to the Lords of Exchequer, to have a speciall care that the es<g ref="char:EOLhyphen"/>cheits and life-rents of excommunicate Papists be only applyed to His Majesties use, and no wayes to the use of the Rebells, directly nor indirectly, and that the in<g ref="char:EOLhyphen"/>trometters with the same for times by-gone, be called and pursued with convenient diligence. And for this effect to see the 13. Act of the late Parliament, made hereanent observed in every point.</p>
+            <p>Forsameikle as albeit the reset of Jesuits, Seminarie and Masse Priests have been oft prohibite and dischar<g ref="char:EOLhyphen"/>ged, yet the execution of the Lawes made hereanent, hath been illuded by the Wives of persons repute and e<g ref="char:EOLhyphen"/>steemed to be sound in Religion, who pretending mis<g ref="char:EOLhyphen"/>knowledge of the actions of their Wives in these cases,
+<pb n="17" facs="tcp:175055:11"/> think to liberate themselves of the danger of the reset, as if they were not to answer for their Wives doings; and under colour hereof, Jesuits an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Masse Priests are hoor<g ref="char:EOLhyphen"/>ded in divers parts of the Kingdome, and occasion <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hereby offered to corrupt the Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ldren, and servants of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he House in their Religion. For <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emeid whereof con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>orme to a former Act of Councell it is hereby decla<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed, that the Husband shall be answerable and compt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ble to His Majesties Councell and Justice of the King<g ref="char:EOLhyphen"/>dome, that his Wife being a profest <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>apist, or under <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rocesse for Poperie, shall not reset, sup<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lie, nor inter<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ommune with Jesuits, nor Priests, A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d that he nor <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he, shall not be served by Papists, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t none shall <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e admitted to their service, but such as h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve a Testi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oniall from the Minister where they dwe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oundnesse of their Religion, under the paine<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> contain<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d in the Acts of Parliament, made against the resetters <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f Jesuits, Seminarie and Masse Priests, specially in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he 13. Act of the last Parliament, 1640. prescribed <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gainst Husbands, Wives, Children, and Servants <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n this behalf. Which the Lords ordaines to be put to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>xecution in all points.</p>
+            <p>
+               <hi>Extractum de libris Actorum secreti Consilii, S. D. N. Regis, per me</hi> Archibaldum Primerose, <hi>Clericum ejus<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>em, sub meis signo &amp; subscriptione manualibus.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175055:12"/>
+            <pb facs="tcp:175055:12"/>
+            <pb facs="tcp:175055:13"/>
+            <pb facs="tcp:175055:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
